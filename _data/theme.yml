@@ -15,13 +15,6 @@ home-title-y-padding: 10em # Default is 8em
 home-banner-image-position: # Default is center
 
 ##########
-# SUBJECTS PAGE
-#
-subjects-fields: subject;creator # set the field to be featured in the cloud (if left blank, none will be generated)
-subjects-min: 1 # min size for subject cloud, too many terms = slow load time!
-subjects-stopwords: # boxers;boxing;boxer # set of subjects separated by ;, e.g. boxers;boxing
-
-##########
 # LOCATIONS PAGE
 #
 locations-fields: location # set the field to be featured in the cloud
