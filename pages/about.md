@@ -8,10 +8,6 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
-
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
-
 ## About After the Storm
 
 “Love inspires remembering. It cause[s] ‘floods and floods of blocked memories’ to break…” —M. Jacqui Alexander
@@ -24,4 +20,4 @@ This lab makes up the archipelago of the Open Boat Lab directed by Dr. Yomaira F
 
 ****The [Diaspora Solidarities Lab](https://www.dslprojects.org/) (DSL) is a multi-institutional Black feminist partnership that supports solidarity work in Black and Ethnic Studies conducted by undergraduates, graduate students, faculty members, and community partners who are committed to transformative justice and accountable to communities beyond the Western academy. We sponsor both traditional analog and digital experimental scholarship to build knowledge communities across institutions and geographies, training participants in the practices and principles of radical media, ethics of Black feminist praxis, and decolonial and antiracist principles. We emphasize the literacies of the born-digital and in-person ethical collaboration.**
 
-{% include cb/about_the_about.md %} 
+
